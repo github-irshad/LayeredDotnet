@@ -1,0 +1,1 @@
+How to structure a layered architecture ASP.Net Core project in a (almost) clean way : https://www.youtube.com/watch?v=S86Y0sxXhDE
